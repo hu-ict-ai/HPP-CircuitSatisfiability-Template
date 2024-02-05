@@ -60,7 +60,7 @@ Begin het verslag met:
 
 - De titel van de opdracht;
 - Je naam en studentnummer;
-- Een link naar een private Github/Gitlab repository met je werk.
+- Een link naar je GitHub Classroom repository met je werk.
 
 - Lees de hele opdracht goed door, stel alvast vragen als iets niet duidelijk is
 - Voor ieder deel / vraag:
